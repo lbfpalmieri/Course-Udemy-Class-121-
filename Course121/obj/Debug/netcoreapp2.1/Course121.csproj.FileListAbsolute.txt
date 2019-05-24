@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\Course121\Course121\bin\Debug\netcoreapp2.1\Course121.deps.json
+C:\Users\lucas\source\repos\Course121\Course121\bin\Debug\netcoreapp2.1\Course121.runtimeconfig.json
+C:\Users\lucas\source\repos\Course121\Course121\bin\Debug\netcoreapp2.1\Course121.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Course121\Course121\bin\Debug\netcoreapp2.1\Course121.dll
+C:\Users\lucas\source\repos\Course121\Course121\bin\Debug\netcoreapp2.1\Course121.pdb
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.dll
+C:\Users\lucas\source\repos\Course121\Course121\obj\Debug\netcoreapp2.1\Course121.pdb
